@@ -12,6 +12,7 @@
 ## Description
 
 - HTML + CSS App to display a random joke
+- Uses third party Jokes API https://icanhazdadjoke.com/
 
 ## Screenshots
 
